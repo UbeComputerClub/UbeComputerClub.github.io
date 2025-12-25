@@ -1,0 +1,10 @@
+[
+  {
+    "regexp": "^\\/comfes-2026(?:\\/(_next\\/data\\/[^/]{1,}))?\\/pamphlet(?:\\/((?:[^\\/#\\?]+?)(?:\\/(?:[^\\/#\\?]+?))*))?(\\\\.json)?[\\/#\\?]?$",
+    "originalSource": "/pamphlet/:path*"
+  },
+  {
+    "regexp": "^\\/comfes-2026(?:\\/(_next\\/data\\/[^/]{1,}))?\\/api\\/merge-pdf(\\\\.json)?[\\/#\\?]?$",
+    "originalSource": "/api/merge-pdf"
+  }
+]
