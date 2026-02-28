@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[17701,["/_next/static/chunks/58f6930a5f358c5b.js","/_next/static/chunks/36f565305545542c.js","/_next/static/chunks/a1706933f9840ead.js"],"PdfViewer"]
+3:I[60571,["/_next/static/chunks/04ffb94433a93116.js","/_next/static/chunks/1420fe00202653eb.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"Y7IpKbsOGyBqQtztbWhis","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"w-full","children":["$","div",null,{"className":"mx-auto max-w-[1280px] px-4 lg:px-12 py-10 lg:py-14 flex flex-col gap-6","children":[["$","div",null,{"children":[["$","h1",null,{"className":"font-display text-3xl font-bold tracking-tight uppercase","children":"Competition"}],["$","p",null,{"className":"mt-3 text-gray-700","children":"競技部門 大会実施要項"}]]}],["$","$L2",null,{"src":"/competition-rules.pdf","title":"競技部門 大会実施要項"}]]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/a1706933f9840ead.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
