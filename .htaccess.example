@@ -1,0 +1,17 @@
+# Apache 2.4+ example (HTTP Basic Auth)
+# This project is exported as static files (next output: "export"),
+# so BASIC auth must be enforced by your web server (Apache/Nginx/etc).
+#
+# 1) Create a password file (recommended: outside DocumentRoot)
+#    $ htpasswd -c /path/to/.htpasswd user
+#
+# 2) Copy this file to `.htaccess` in your deployed document root
+# 3) Update `AuthUserFile` to the actual absolute path on your server
+
+<If "%{REQUEST_URI} =~ m#^/pamphlet(/|$)# || %{REQUEST_URI} =~ m#^/awards/[^/]+(/|$)#">
+  AuthType Basic
+  AuthName "Restricted"
+  AuthUserFile "/ABSOLUTE/PATH/TO/.htpasswd"
+  Require valid-user
+</If>
+

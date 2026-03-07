@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="700" viewBox="0 0 1600 700">
+  <rect x="0" y="0" width="1600" height="700" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1600" height="700" fill="#0055A4" opacity="0.06"/>
+  <g opacity="0.20">
+    <path d="M0 560 L1600 360 L1600 700 L0 700 Z" fill="#0055A4"/>
+    <path d="M0 620 L1600 470 L1600 700 L0 700 Z" fill="#0055A4" opacity="0.65"/>
+  </g>
+  <g opacity="0.25">
+    <rect x="90" y="110" width="220" height="140" fill="#0055A4"/>
+    <rect x="120" y="140" width="160" height="90" fill="#FFFFFF"/>
+    <rect x="340" y="150" width="260" height="160" fill="#0055A4"/>
+    <rect x="370" y="180" width="200" height="110" fill="#FFFFFF"/>
+    <rect x="640" y="120" width="240" height="170" fill="#0055A4"/>
+    <rect x="670" y="150" width="180" height="120" fill="#FFFFFF"/>
+  </g>
+  <g opacity="0.18">
+    <rect x="980" y="160" width="520" height="14" fill="#0E111B"/>
+    <rect x="980" y="190" width="440" height="14" fill="#0E111B"/>
+    <rect x="980" y="220" width="480" height="14" fill="#0E111B"/>
+    <rect x="980" y="250" width="360" height="14" fill="#0E111B"/>
+  </g>
+</svg>
+
